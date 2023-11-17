@@ -5,10 +5,9 @@ This is a project, that I create a bar code in supermarket, It's did with C lang
 ## Dependencies
 
 The Dependencies to compile app, you should execute this command:
-
-´´´
+```
 sudo apt install build-essential
-´´´
+```
 
 For gtk:
 
