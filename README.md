@@ -1,6 +1,6 @@
 # Perspecitva
 
-This is a project, that I create a system bar code of supermarket, It's did with C language and using clang as the compiler
+This is a project, that I create a system bar code of supermarket, i did it with C language and using cmake as compiler
 
 ## Dependencies
 
