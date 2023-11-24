@@ -34,6 +34,10 @@ or
 cmake .
 make
 ```
+or using a compiler.sh
+```
+./compiler.sh
+```
 
 the target of the compiled app is in `./build/index`
 
