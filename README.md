@@ -6,7 +6,7 @@ This is a project, that I create a system bar code of supermarket, i did it with
 
 The Dependencies to compile app, you should execute this command:
 ```
-sudo apt install build-essential
+sudo apt install build-essential cmake
 ```
 
 For gtk:
