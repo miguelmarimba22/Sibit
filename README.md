@@ -1,6 +1,6 @@
 # Perspecitva
 
-This is a project, that I create a system bar code of supermarket, i did it with C language and using cmake as compiler <h3>FOR LINUX</h3>
+This is a project, that I create a Simple Calculator, i did it with C language and using cmake as compiler FOR LINUX
 
 
 
